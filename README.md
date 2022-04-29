@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="goblin.png">  
+  <img src="goblin.png" width="150px" height="150px">  
 </p>
 
-<h1 align="center">WordlistPasswordGenerator </h1>
+<h1 align="center"> WordlistPasswordGenerator </h1>
 <p align="center">
   Python WordList Generator 
 </p>
 
 ### MAINTAINERS
-* **Techie SNeh**| 
+* **Sneh Kr** | 
 Github: <a href="https://github.com/snehkr">@Sneh Kr</a>
 
 
